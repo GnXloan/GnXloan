@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GnXloan
+- 👀 I’m interested in crying about my code
+- 🌱 I’m currently learning haskell
+- 📫 How to reach me : I'm learning haskell so don't reach me
+- ⚡ Fun fact : I wanna work for an F1 team
