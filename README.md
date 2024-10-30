@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GnXloan
+- 👋 Hi, I’m loan badey
 - 👀 I’m interested in crying about my code
 - 🌱 I’m currently learning haskell
 - 📫 How to reach me : I'm learning haskell so don't reach me
