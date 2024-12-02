@@ -1,5 +1,5 @@
 - 👋 Hi, I’m loan badey
 - 👀 I’m interested in crying about my code
-- 🌱 I’m currently learning haskell
-- 📫 How to reach me : I'm learning haskell so don't reach me
+- 🌱 I’m currently studying at Epitech
+- 📫 How to reach me : loan.badey@epitech.eu
 - ⚡ Fun fact : I wanna work for an F1 team
