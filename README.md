@@ -2,4 +2,4 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently studying at Epitech
 - 📫 How to reach me : loan.badey@epitech.eu
-- ⚡ Fun fact : I wanna work for an F1 team
+- ⚡ Fun fact : I'm a oracle redbull racing fan
